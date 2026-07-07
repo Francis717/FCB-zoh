@@ -1,2 +1,5 @@
 First Name: Francis Gian
 Last Name: Lising
+
+Motivation:
+I joined this Open House Bootcamp to gain practical exposure to GitHub, HTML, and CSS and to better understand how these technologies are used in real-world projects. As a Bachelor of Science in Statistics student, I recognize the value of combining statistical expertise with technical skills. Looking ahead, I aspire to build a career in statistics, data analytics, and data science,  where technical proficiency is becoming increasingly important. By participating in this bootcamp, I hope to strengthen my problem-solving skills, improve my ability to work on collaborative software projects, and become a more well-rounded and competitive candidate for internships and future employment opportunities. I am excited to learn, contribute, and make the most of this experience while continuing to develop both my technical expertise and my passion for lifelong learning.
